@@ -1,5 +1,7 @@
 # Micro Service Testing using Gatling
 
+Sorry, this repository is not being maintained, latest version of Gatling has support for feeders (to feed input json), do checkout Gatling's website.
+
 Building the User Microservice Jar File
 ----------------------------------------
 Step 1 : Change to directory to  micro-services/ecommerce-microservices/user-microservice
